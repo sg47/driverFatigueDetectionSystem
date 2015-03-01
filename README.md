@@ -1,2 +1,2 @@
-# driverfatiguedetectionsystem
-Final year college project 
+# Driver Fatigue Detection System
+Project under developement.
