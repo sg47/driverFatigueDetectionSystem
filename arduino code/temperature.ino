@@ -8,7 +8,7 @@ void loop()
 {
 temp = analogRead(tempPin);
 temp = temp * 0.48828125;
-Serial.print("TEMPRATURE = ");
+//Serial.print("TEMPRATURE = ");
 Serial.print(temp);
 Serial.print("*C");
 Serial.println();
